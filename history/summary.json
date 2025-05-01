@@ -167,18 +167,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/hiphospitals.com.ico",
     "slug": "hip-hospitals",
     "status": "down",
-    "uptime": "99.50%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.50%",
-    "uptimeYear": "99.50%",
+    "uptime": "97.55%",
+    "uptimeDay": "97.55%",
+    "uptimeWeek": "97.55%",
+    "uptimeMonth": "97.55%",
+    "uptimeYear": "97.55%",
     "time": 530,
     "timeDay": 530,
     "timeWeek": 530,
     "timeMonth": 530,
     "timeYear": 530,
     "dailyMinutesDown": {
-      "2025-05-01": 0
+      "2025-05-01": 1
     }
   },
   {
@@ -216,7 +216,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-01": 59
+      "2025-05-01": 61
     }
   },
   {
@@ -243,18 +243,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/surgeryplanet.com.ico",
     "slug": "surgery-planet",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-01": 59
+      "2025-05-01": 61
     }
   }
 ]
