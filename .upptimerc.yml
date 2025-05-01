@@ -1,36 +1,73 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
-
+owner: SRESchool
+repo: AllMyhospitalnow-monitor-upptime
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
+  - name: AskDoctorLive
+    url: https://askdoctorlive.com
+    ssl: true
+  - name: BestCardiacHospitals
+    url: https://bestcardiachospitals.com
+    ssl: true
+  - name: BestCosmeticHospitals
+    url: https://bestcosmetichospitals.com
+    ssl: true
+  - name: BestDentalHospitals
+    url: https://bestdentalhospitals.com
+    ssl: true
+  - name: BestEyeHospitals
+    url: https://besteyehospitals.com
+    ssl: true
+  - name: BestHeartSurgery
+    url: https://bestheartsurgery.com
+    ssl: true
+  - name: BestSpineHospitals
+    url: https://bestspinehospitals.com
+    ssl: true
+  - name: CancersHospitals
+    url: https://cancershospitals.com
+    ssl: true
+  - name: HeartCareForYou
+    url: https://heartcareforyou.in
+    ssl: true
+  - name: HipHospitals
+    url: https://hiphospitals.com
+    ssl: true
+  - name: KneeHospitals
+    url: https://kneehospitals.com
+    ssl: true
+  - name: MyHospitalNow
+    url: https://myhospitalnow.com
+    ssl: true
+  - name: MyMedicPlus
+    url: https://mymedicplus.com
+    ssl: true
+  - name: SurgeryPlanet
+    url: https://surgeryplanet.com
+    ssl: true
     port: 80
     check: "tcp-ping"
     ipv6: true
 
+assignees:
+  - SRESchool
+
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  baseUrl: /AllMyhospitalnow-monitor-upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  navbar:
+  name: Hospital Websites Uptime
+  introTitle: "**Upptime** monitors hospital websites for uptime and SSL."
+  introMessage: This status page uses **real-time** data from our [GitHub repository](https://github.com/SRESchool/AllMyhospitalnow-monitor-upptime). No server required — just GitHub Actions, Issues, and Pages.
+
+navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+workflowSchedule:
+  graphs: "*/5 * * * *"
+  responseTime: "*/5 * * * *"
+  staticSite: "*/5 * * * *"
+  summary: "*/5 * * * *"
+  updateTemplate: "*/5 * * * *"
+  updates: "*/5 * * * *"
+  uptime: "*/5 * * * *"
