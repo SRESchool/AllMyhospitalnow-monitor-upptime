@@ -51,6 +51,7 @@ assignees:
   - SRESchool
 
 status-website:
+  cname: null
   baseUrl: /AllMyhospitalnow-monitor-upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Hospital Websites Uptime
