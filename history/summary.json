@@ -16,7 +16,7 @@
     "timeMonth": 790,
     "timeYear": 790,
     "dailyMinutesDown": {
-      "2025-05-03": 1071,
+      "2025-05-03": 1072,
       "2025-05-02": 1263,
       "2025-05-01": 575
     }
@@ -38,7 +38,7 @@
     "timeMonth": 568,
     "timeYear": 568,
     "dailyMinutesDown": {
-      "2025-05-03": 1071,
+      "2025-05-03": 1072,
       "2025-05-02": 1440,
       "2025-05-01": 575
     }
@@ -60,7 +60,7 @@
     "timeMonth": 645,
     "timeYear": 645,
     "dailyMinutesDown": {
-      "2025-05-03": 1071,
+      "2025-05-03": 1072,
       "2025-05-02": 1440,
       "2025-05-01": 574
     }
@@ -82,7 +82,7 @@
     "timeMonth": 589,
     "timeYear": 589,
     "dailyMinutesDown": {
-      "2025-05-03": 1071,
+      "2025-05-03": 1072,
       "2025-05-02": 1440,
       "2025-05-01": 574
     }
@@ -104,7 +104,7 @@
     "timeMonth": 551,
     "timeYear": 551,
     "dailyMinutesDown": {
-      "2025-05-03": 1071,
+      "2025-05-03": 1072,
       "2025-05-02": 1440,
       "2025-05-01": 573
     }
@@ -126,7 +126,7 @@
     "timeMonth": 641,
     "timeYear": 641,
     "dailyMinutesDown": {
-      "2025-05-03": 1071,
+      "2025-05-03": 1072,
       "2025-05-02": 1440,
       "2025-05-01": 573
     }
@@ -148,7 +148,7 @@
     "timeMonth": 529,
     "timeYear": 529,
     "dailyMinutesDown": {
-      "2025-05-03": 1071,
+      "2025-05-03": 1072,
       "2025-05-02": 1440,
       "2025-05-01": 572
     }
@@ -170,7 +170,7 @@
     "timeMonth": 538,
     "timeYear": 538,
     "dailyMinutesDown": {
-      "2025-05-03": 1071,
+      "2025-05-03": 1072,
       "2025-05-02": 1440,
       "2025-05-01": 572
     }
@@ -192,7 +192,7 @@
     "timeMonth": 257,
     "timeYear": 257,
     "dailyMinutesDown": {
-      "2025-05-03": 1071,
+      "2025-05-03": 1072,
       "2025-05-02": 1440,
       "2025-05-01": 571
     }
@@ -203,18 +203,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/hiphospitals.com.ico",
     "slug": "hip-hospitals",
     "status": "down",
-    "uptime": "64.73%",
-    "uptimeDay": "91.68%",
-    "uptimeWeek": "64.73%",
-    "uptimeMonth": "64.73%",
-    "uptimeYear": "64.73%",
+    "uptime": "64.72%",
+    "uptimeDay": "91.63%",
+    "uptimeWeek": "64.72%",
+    "uptimeMonth": "64.72%",
+    "uptimeYear": "64.72%",
     "time": 466,
     "timeDay": 441,
     "timeWeek": 466,
     "timeMonth": 466,
     "timeYear": 466,
     "dailyMinutesDown": {
-      "2025-05-03": 109,
+      "2025-05-03": 110,
       "2025-05-02": 488,
       "2025-05-01": 571
     }
@@ -236,7 +236,7 @@
     "timeMonth": 570,
     "timeYear": 570,
     "dailyMinutesDown": {
-      "2025-05-03": 1071,
+      "2025-05-03": 1072,
       "2025-05-02": 1440,
       "2025-05-01": 570
     }
@@ -258,7 +258,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-03": 1071,
+      "2025-05-03": 1072,
       "2025-05-02": 1440,
       "2025-05-01": 801
     }
@@ -269,18 +269,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mymedicplus.com.ico",
     "slug": "my-medic-plus",
     "status": "up",
-    "uptime": "6.98%",
+    "uptime": "6.97%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "6.98%",
-    "uptimeMonth": "6.98%",
-    "uptimeYear": "6.98%",
+    "uptimeWeek": "6.97%",
+    "uptimeMonth": "6.97%",
+    "uptimeYear": "6.97%",
     "time": 598,
     "timeDay": 579,
     "timeWeek": 598,
     "timeMonth": 598,
     "timeYear": 598,
     "dailyMinutesDown": {
-      "2025-05-03": 1071,
+      "2025-05-03": 1072,
       "2025-05-02": 1440,
       "2025-05-01": 570
     }
@@ -302,7 +302,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-03": 1071,
+      "2025-05-03": 1072,
       "2025-05-02": 1440,
       "2025-05-01": 801
     }
